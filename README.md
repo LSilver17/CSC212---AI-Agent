@@ -583,11 +583,11 @@ Context data can be accessed from components within the UserContextProvider wrap
 
 # Developer Documentation Links
 
-- [Frontend Documentation](https://crystalclear1080p.github.io/Frontend-Documentation/)
+- [Frontend Documentation](https://scollins2004.github.io/Frontend-Documentation/)
 - [Backend Documentation](https://lsilver17.github.io/AIDvise---Backend-Docs/html/index.html)
 - [DataPipeline Documentation](https://noe-qpromecode.github.io/AIdvise-data-pipeline-docs/docs/index.html)
 
 # Credits
 Luca Silver | Agent & Database Design | [Profile](https://github.com/LSilver17)  
-Sean Collins | Frontend Design & User Management| [Profile](https://github.com/crystalclear1080p)  
+Sean Collins | Frontend Design & User Management| [Profile](https://github.com/scollins2004)  
 Noel Mensah | Data Management | [Profile](https://github.com/noe-Qpromecode)
